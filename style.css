@@ -1,0 +1,30 @@
+.top {
+    background-color: #222222;
+    color: #F3F3F3;
+}
+
+header {
+    background-color: #F0A83E;
+    color: #ffffff;
+}
+section.suscribirse {
+    background-color: #F0A83E;
+
+}
+section.suscribirse h3 {
+    color: #ffffff;
+}
+section.contacto {
+    background-color: #3C2313;
+}
+section.contacto ul li h3 {
+    color: #ffffff;
+}
+section.contacto ul li p {
+    color: #8A8787;
+}
+
+footer {
+background-color: #222222;
+color: #ffffff
+}
